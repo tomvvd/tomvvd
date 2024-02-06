@@ -1,5 +1,5 @@
-# Bienvenue sur mon profil GitHub !
+# Welcome to my GitHub profile!
 
-Je suis **Thomas Vervondel**, étudiant en informatique en 3ème année de Bachelier à l'**HE2B ESI**, section Développeur d'applications.
-Je suis actuellement en stage chez **YesBabylon**, où je m'emploie à appliquer les connaissances acquises au cours de mon cursus scolaire et à en développer des nouvelles.
-Passez un bon moment à parcourir mes repos GitHub et à bientôt ! 🚀
+I am **Thomas Vervondel**, a third-year computer science student at **HE2B ESI**.
+I am currently interning at **YesBabylon**, where I am applying the knowledge gained during my academic journey and developing new skills.
+Enjoy exploring my GitHub repositories and see you soon! 🚀
