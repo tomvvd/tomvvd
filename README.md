@@ -1,4 +1,4 @@
 # Welcome to my GitHub profile!
 
-I'm **Thomas Vervondel**, a third-year computer science student at **HE2B ESI**.
+I'm **Thomas Vervondel**.
 Enjoy exploring my GitHub repositories and see you soon! 🚀
